@@ -1,0 +1,19 @@
+body{
+  background-color: #FCCA46;
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: "Hiragino Kaku Gothic ProN";
+}
+
+button{
+  padding: 5px 20px;
+  background-color: #2E294E;
+  color: #F8FCFA;
+  border-style: solid;
+  margin-left: 5px;
+}
+
+input{
+  height: 20px;
+}
